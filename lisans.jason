@@ -17,7 +17,7 @@
     "command_block", "confirm:delint", "confirm:fsell", "cuffAnimation", 
      "dbid", "dead",  "degisdurum", "deleted", 
     "description:1", "description:2", "description:3", "description:4", "description:5", 
-    "destek", "destekbind", "dice", "dim", "dimension", "dispatch:availability", 
+    "destek", "destekbind",  "dim", "dimension", "dispatch:availability", 
     "dispatch:callsign", "dispatch:status", "dkhak", "donater", "drinking", 
     "drinking:hand", "drivingTest.checkmarkers", "drivingTest.marker", "dutyAllowTable", 
     "duty_supporter", "dutyadmin", "elma:isleme", "elma:toplaniyor", "enableGunAttach", 
