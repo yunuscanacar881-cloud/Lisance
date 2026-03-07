@@ -15,7 +15,7 @@
     "cash", "char >> bankmoney", "char >> money", "chatbubbles", "chopped", 
     "cicek:topluyor", "ckreason", "ckstatus", "clothing:id", "cokesgotten", 
     "command_block", "confirm:delint", "confirm:fsell", "cuffAnimation", 
-     "dbid", "dead", "deagle:reload", "degisdurum", "deleted", 
+     "dbid", "dead",  "degisdurum", "deleted", 
     "description:1", "description:2", "description:3", "description:4", "description:5", 
     "destek", "destekbind", "dice", "dim", "dimension", "dispatch:availability", 
     "dispatch:callsign", "dispatch:status", "dkhak", "donater", "drinking", 
