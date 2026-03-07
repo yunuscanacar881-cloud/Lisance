@@ -82,7 +82,7 @@
     "vehicle:doorcontrol:panel", "vehicle:engine", "vehicle:fuel_type", "mask", 
     "admin_level", "hudkapa", "manager_level", "vehicle:radio", "vehicle:type", 
     "vehicle:windowstat", "vehicleManager:deletedVeh", "vehicleManager:oldCar", 
-    "vehicle_shop_id", "vehint.exiting", "vehtheft", "vergi", "verilenhasar", 
+    "vehicle_shop_id", "vehint.exiting", "vehtheft", "vergi", 
     "viewingInterior", "vipver", "voiceChannel", "wages", "walkingstyle", 
     "wheel:mechanic",  "year", "youtuber"
   ]
