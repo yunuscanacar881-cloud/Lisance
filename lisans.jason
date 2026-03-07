@@ -84,6 +84,6 @@
     "vehicle:windowstat", "vehicleManager:deletedVeh", "vehicleManager:oldCar", 
     "vehicle_shop_id", "vehint.exiting", "vehtheft", "vergi", "verilenhasar", 
     "viewingInterior", "vipver", "voiceChannel", "wages", "walkingstyle", 
-    "wheel:mechanic", "written", "year", "youtuber"
+    "wheel:mechanic",  "year", "youtuber"
   ]
 }
