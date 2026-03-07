@@ -59,7 +59,7 @@
     "propbreak", "protectws_until", "ranks", "realinvehicle", "realism:joint", 
     "realism:stretcher:hasStretcher", "realism:stretcher:isInAmbulanceOnStretcher", 
     "realism:stretcher:ownedBy", "realism:stretcher:playerOnIt", "rearWheel", 
-    "recon:whereToDisplayY", "reconx", "registered", "report-system:subcribeToAdminReports", 
+      "registered", "report-system:subcribeToAdminReports", 
     "report:autocheck", "reportNum", "reportPanel", "report_panel_mod", "requires.vehpos", 
     "respawnposition", "restart_counter", "rk_durum", "roadblock", "rpp.npc.behav", 
     "rpp.npc.dbid", "rpp.npc.name", "rpp.npc.nametag", "rpp.npc.spawnpos", "rpp.npc.spawnpos2", 
