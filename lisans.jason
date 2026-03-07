@@ -41,7 +41,7 @@
     "isInWindow:int", "isInWindow:vehID", "isInWindow:x", "isInWindow:y", "isInWindow:z", 
     "isMarketNPC", "isSafeZone", "isStatusShowing", "jail:cell", "jail:id", "jail_time", 
     "jailed", "jailtimer", "job", "job_level:", "keypad_lock", "keypad_lock_auto", 
-    "keypad_lock_pw", "keysDenied", "killog", "kiralik:sahip", "komutkullanimikapat", 
+    "keypad_lock_pw",  "killog", "kiralik:sahip", "komutkullanimikapat", 
     "korna:mechanic", "kriko:durum", "kucakta", "kumar-obje", "kumar-slot", "lastdeath", 
     "lastused", "lastvehid", "legitnamechange", "license.bike", "license.bike.cangetin", 
     "license.boat", "license.car", "license.car.cangetin", "lifeTimeNameTag_on", 
