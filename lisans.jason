@@ -21,7 +21,7 @@
     "dispatch:callsign", "dispatch:status", "dkhak", "donater", "drinking", 
     "drinking:hand", "drivingTest.checkmarkers", "drivingTest.marker", "dutyAllowTable", 
     "duty_supporter", "dutyadmin", "elma:isleme", "elma:toplaniyor", "enableGunAttach", 
-    "enableOverlayDescriptionProPin", "enableOverlayDescriptionVehPin", "engine", 
+     "engine", 
     "enginebroke", "entrance", "etiket", "etiket2", "etiket3", "etiket4", "etiket5", 
     "faction", "factionDuty", "factionLocations", "factionMenu", "factionPackage:ID", 
     "factionPackage:selected", "factionPackages", "factionleader", "factionphone", 
