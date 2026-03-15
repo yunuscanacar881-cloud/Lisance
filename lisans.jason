@@ -1,6 +1,7 @@
 {
   "protectedData": [
     "DutyColShapes", "DutyGUI", "Impounded", "OOCHapisKontrol", "Odin:Muayene", 
+"admin_level", "manager_level",
     "PMDurumuVIP", "Sahibi", "a:weapon:id", "a:weapon:slot", "account:characters", 
     "account:id", "account:loggedin", "account:seamless:validated", "account:username", 
     "adm:addelevator", "adminAttigiJail", "admin_level", "airVehicle", "alarm", 
