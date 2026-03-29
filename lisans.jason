@@ -184,7 +184,6 @@
         "mostrecentdeletedinterior": true,
         "motd": true,
         "name": true,
-        "nametag_settings": true,
         "neon": true,
         "neon_active": true,
         "note": true,
@@ -287,7 +286,6 @@
         "worlditem.permissions": true,
         "worlditemdata.": true,
         "worlditems.loaded.data.": true,
-        "writing": true,
         "year": true,
         "youtuber": true
     }
