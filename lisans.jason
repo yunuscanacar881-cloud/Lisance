@@ -6,6 +6,7 @@
         "account_register_date": true,
         "account_username": true,
         "activity": true,
+        "bank_money": true,
         "acweapon": true,
         "adm:addelevator": true,
         "admin_jail_by": true,
