@@ -18,7 +18,6 @@
         "admin_level": true,
         "admin_reports": true,
         "adminnote": true,
-        "afk": true,
         "age": true,
         "airport.gate.connected": true,
         "alcohollevel": true,
