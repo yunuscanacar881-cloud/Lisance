@@ -277,8 +277,6 @@
         "wallhacktrue": true,
         "weaponid": true,
         "weapons": true,
-        "wearables": true,
-        "weight": true,
         "windows": true,
         "worlditem.permissions": true,
         "worlditemdata.": true,
